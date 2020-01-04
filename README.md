@@ -1,2 +1,0 @@
-# layoutexercise
-frontendmasters exercise
